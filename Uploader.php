@@ -1,5 +1,7 @@
 Test
 
+Test 2
+
 <?php
 /**
  * Magento
